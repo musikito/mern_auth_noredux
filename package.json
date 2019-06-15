@@ -26,7 +26,8 @@
     "express-session": "^1.16.1",
     "mongoose": "^5.5.14",
     "passport": "^0.4.0",
-    "passport-local": "^1.0.0"
+    "passport-local": "^1.0.0",
+    "ejs": "^2.6.2"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
